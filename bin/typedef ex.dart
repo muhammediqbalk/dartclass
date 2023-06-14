@@ -12,7 +12,8 @@ void add(int a, int b){
 void display(){
   print("Noting");
 }
-void main(){
+void main() {
   //show(10, "hhh");
   //add(11,10);
 
+}
