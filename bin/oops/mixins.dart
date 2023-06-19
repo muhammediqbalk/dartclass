@@ -9,10 +9,10 @@ mixin father{
 }
 
 mixin mother{
-  String Place="ottapalam";
+  String Place = "Ottapalam";
   void add();
 
-  void motherdeatils(name,age,job){
+  motherdeatils(name,age,job){
     print("name is :$name");
     print("age :$age");
     print("job:$job");
